@@ -1,7 +1,0 @@
-#include<stdio.h>
-int main(){
-int* a;
-printf("%lu",sizeof(a));// 포인터는 2바이트 (8비트)
-return 0;
-
-}
